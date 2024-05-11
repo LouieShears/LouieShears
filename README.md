@@ -17,7 +17,7 @@ Over 10 years of experience in developing and implementing innovative software t
 ✅ Experience with GitHub and Project Management tools e.g., Jira, ACE and Slack for communication.\
 ✅ DevOps - CI/CD using Jenkins, Docker, Kubernetes etc.
 
-✉️ You can contact me at lhsd24@gmail.com
+✉️ You can contact me at lhsd244@gmail.com
 
 ### Skills
 
