@@ -2,9 +2,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 Senior Full Stack Developer
----------------------------
+--
 
-🌍 Based in Kansas City Over 10 years of experience in developing and implementing innovative software technology for both business process and technology based solutions which enable efficiency, speed, flexibility and reduction to cost and lead time; furthermore, driving process compliance and improvements through cross-divisional collaboration, decisions and strategies with the use of software technology development. 🥇 Trusted by Hallmark Card, other international companies to develop innovative software solutions that drive growth. I use the latest technologies and tools to ensure that your website is fast, reliable, and user-friendly, such as: ✅ Front-end – React, React Native, Angular, Next, Vue, Nuxt ✅ Back-end – JavaScript/TypeScript, NodeJS, .NET ✅ Infrastructure – Linux, Docker, AWS ✅ Databases – PostgreSQL, MariaDB, MongoDB, Redis ✅ Experience with GitHub and Project Management tools e.g., Jira, ACE and Slack for communication. ✅ DevOps - CI/CD using Jenkins, Docker, Kubernetes etc. ✉️ You can contact me at lhsd24@gmail.com
+🌍 Based in Kansas City
+
+Over 10 years of experience in developing and implementing innovative software technology for both business process and technology based solutions which enable efficiency, speed, flexibility and reduction to cost and lead time; furthermore, driving process compliance and improvements through cross-divisional collaboration, decisions and strategies with the use of software technology development.
+
+🥇 Trusted by Hallmark Card, other international companies to develop innovative software solutions that drive growth. I use the latest technologies and tools to ensure that your website is fast, reliable, and user-friendly, such as:
+
+✅ Front-end – React, React Native, Angular, Next, Vue, Nuxt\
+✅ Back-end – JavaScript/TypeScript, NodeJS, .NET\
+✅ Infrastructure – Linux, Docker, AWS\
+✅ Databases – PostgreSQL, MariaDB, MongoDB, Redis\
+✅ Experience with GitHub and Project Management tools e.g., Jira, ACE and Slack for communication.\
+✅ DevOps - CI/CD using Jenkins, Docker, Kubernetes etc.
+
+✉️ You can contact me at lhsd24@gmail.com
 
 ### Skills
 
@@ -16,4 +29,4 @@ Senior Full Stack Developer
 
 ### Badges
 
-<a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouieShears&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
