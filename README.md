@@ -8,7 +8,7 @@ Senior Full Stack Developer
 
 Over 10 years of experience in developing and implementing innovative software technology for both business process and technology based solutions which enable efficiency, speed, flexibility and reduction to cost and lead time; furthermore, driving process compliance and improvements through cross-divisional collaboration, decisions and strategies with the use of software technology development.
 
-🥇 Trusted by Hallmark Card, other international companies to develop innovative software solutions that drive growth. I use the latest technologies and tools to ensure that your website is fast, reliable, and user-friendly, such as:
+🥇 Trusted by Hallmark Cards, other international companies to develop innovative software solutions that drive growth. I use the latest technologies and tools to ensure that your website is fast, reliable, and user-friendly, such as:
 
 ✅ Front-end – React, React Native, Angular, Next, Vue, Nuxt\
 ✅ Back-end – JavaScript/TypeScript, NodeJS, .NET\
